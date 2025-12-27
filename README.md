@@ -1,3 +1,3 @@
 ## Bonjour et Bienvenue 👋
 
-étudiant en BUT Info @ Montreuil | Java, Python & Web en cours de compilation... ⚙️
+Jeune codeur en BUT Informatique à Montreuil, actuellement en formation et toujours en quête de nouvelles compétences.

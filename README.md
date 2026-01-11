@@ -1,6 +1,11 @@
-# 💫 About Me:
+# 💫 À propos de moi :
 
-# 👨‍💻 Tahenni Bachir | Etudiant en BUT <br><p align="center"><br></p><br>- 🔭 Je travaille actuellement sur : La création d'une base de donnée pour un site de referencement sur la NBA<br>- 🧠 J'apprends : Le language C / JavaScript <br>- 🎯 Objectif :  Trouver une alternance <br><br>---<br><br>## 🛠 Ma Boîte à Outils<br><p align="left"><br>  <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,docker,figma,github,aws" /><br></p><br><br>---<br><br>## 🏗️ Projets Sélectionnés <br>**Afrissaines** | 🚀 | Un site vitrine comprenant un module de reservation | HTML / CSS   <br>| **Jeu de GO** | 🛠️ | développement d’un jeu de Go jouable sur terminale  | Java / Junit |<br>| **Machine Virtuelle UBUNTU** | 📦 | Installation d’un poste de travail | VirtualBox |<br><br>---<br><br>## 🤝 On collabore ?<br>- 📧 Contacte-moi : **Tahennibachir9@gmail.com**<br>- 💼 LinkedIn : **https://www.linkedin.com/in/bachir-tahenni-b61a2a39b/**
+# 👨‍💻 Tahenni Bachir | Étudiant en BUT <br><p align="center"><br></p><br>- 🔭 Je travaille actuellement sur : La création d'une base de données pour un site de référencement sur la NBA<br>- 🧠 J'apprends : Le langage C / JavaScript <br>- 🎯 Objectif : Trouver une alternance <br><br>---<br><br>## 🛠 Ma Boîte à Outils<br><p align="left"><br>  <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,docker,figma,github,aws" /><br></p><br><br>---<br><br>## 🏗️ Projets Sélectionnés <br>
+| **Afrissaines** | 🚀 | Un site vitrine comprenant un module de réservation | HTML / CSS |
+| **Jeu de GO** | 🛠️ | Développement d’un jeu de Go jouable sur terminal | Java / Junit |
+| **Machine Virtuelle UBUNTU** | 📦 | Installation d’un poste de travail | VirtualBox |
+
+<br>---<br><br>## 🤝 On collabore ?<br>- 📧 Contactez-moi : **Tahennibachir9@gmail.com**<br>- 💼 LinkedIn : **https://www.linkedin.com/in/bachir-tahenni-b61a2a39b/**
 
 
 ## 🌐 Socials:

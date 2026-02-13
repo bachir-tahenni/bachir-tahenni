@@ -1,6 +1,6 @@
 # 💫 À propos de moi :
 
-# 👨‍💻 Tahenni Bachir | Étudiant en BUT <br><p align="center"><br></p><br>- 🔭 Je travaille actuellement sur : La création d'une base de données pour un site de référencement sur la NBA<br>- 🧠 J'apprends : Le langage C / JavaScript <br>- 🎯 Objectif : Trouver une alternance <br><br>---<br><br>## 🛠 Ma Boîte à Outils<br><p align="left"><br>  <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,postgres,docker,aws,idea,vscode,figma,github" /><br></p><br><br>---<br><br>## 🏗️ Projets Sélectionnés <br>
+# Tahenni Bachir | Étudiant en BUT <br><p align="center"><br></p><br>- Je travaille actuellement sur : La création d'une base de données pour un site de référencement sur la NBA<br>- J'apprends : Le langage C / JavaScript <br>- Objectif : Trouver une alternance <br><br>---<br><br>## 🛠 Ma Boîte à Outils<br><p align="left"><br>  <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,postgres,docker,aws,idea,vscode,figma,github" /><br></p><br><br>---<br><br>## 🏗️ Projets Sélectionnés <br>
 | **Afrissaines** | 🚀 | Un site vitrine comprenant un module de réservation | HTML / CSS |<br>
 | **Jeu de GO** | 🛠️ | Développement d’un jeu de Go jouable sur terminal | Java / Junit |<br>
 | **Machine Virtuelle UBUNTU** | 📦 | Installation d’un poste de travail | VirtualBox |<br>
